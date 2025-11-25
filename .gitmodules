@@ -1,0 +1,6 @@
+[submodule "rv1103b-tools"]
+	path = rv1103b-tools
+	url = git@github.com:aiml-ai/rv1103b-tools.git
+[submodule "rv1103b-media-libs"]
+	path = rv1103b-media-libs
+	url = git@github.com:aiml-ai/rv1103b-media-libs.git
